@@ -1,0 +1,8 @@
+start scrapy crawl AmazonGeoGE -a start=130781 -a end=134000
+start scrapy crawl AmazonGeoGE -a start=134001 -a end=137000
+start scrapy crawl AmazonGeoGE -a start=137001 -a end=140000
+start scrapy crawl AmazonGeoGE -a start=140001 -a end=143000
+start scrapy crawl AmazonGeoGE -a start=143001 -a end=146000
+start scrapy crawl AmazonGeoGE -a start=146001 -a end=149000
+start scrapy crawl AmazonGeoGE -a start=149001 -a end=152000
+start scrapy crawl AmazonGeoGE -a start=152001 -a end=156936

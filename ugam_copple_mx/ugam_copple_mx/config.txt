@@ -1,0 +1,10 @@
+feedid=57;
+Time_Zone=Indian_Time;
+drive=D;
+store_name=Copple_mx;
+frequency=Daily;
+
+ftp_file_upload=No;
+ftp_filename=PDP_Coppel.com_LA_output_date.tsv;
+ftp_file_localpath=D:\Daily Scheduler\0. UGAM\0. TSV\date;
+ftp_ss_localpath=D:\Daily Scheduler\0. UGAM\UGAM_Daily_coppel_uk\HTML_SS\date\Screenshot;

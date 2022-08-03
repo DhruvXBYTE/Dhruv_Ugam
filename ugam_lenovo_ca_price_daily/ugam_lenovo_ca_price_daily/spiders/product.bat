@@ -1,0 +1,1 @@
+start scrapy crawl lenovo_ca_product -a start=1 -a end=1700

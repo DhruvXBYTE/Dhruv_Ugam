@@ -1,0 +1,9 @@
+feedid=924;
+Time_Zone=Indian_Time;
+drive=D;
+store_name=Lenovo_ca;
+frequency=daily_price;
+
+ftp_file_upload=Yes;
+ftp_filename=PDP_lenovo_ca_NA_output_date.csv;
+ftp_file_localpath=D:\Daily Scheduler\0. UGAM\0. CSV\CATEGORY_DAILY\date\CSV;

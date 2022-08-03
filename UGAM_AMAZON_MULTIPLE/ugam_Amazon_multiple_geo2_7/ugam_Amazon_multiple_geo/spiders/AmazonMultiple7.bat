@@ -1,0 +1,1 @@
+start scrapy crawl AmazonMultiple7 -a start=11 -a end=15

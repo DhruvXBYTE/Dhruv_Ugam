@@ -1,0 +1,16 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: session-id=144-6084411-7548912; session-id-time=2082787201l; i18n-prefs=USD; csm-hit=tb:s-JMK9FK9Y6HEC9VJM1ZHX|1657263336815&t:1657263338897&adb:adblk_no; ubid-main=131-2518449-8610562; session-token="BnSwDAKtJC5/4kCuxx7Gv7fTS7vkuviW2N6j0Th5ZYq3gmURYv7q3k5B0VlzVsZWeT6xuoK+cvGWIlBU4ZFv9+CdAT9Q8EBMrviosV9EZjr/qLcCTE0WWI4uBr6S0SBtY19BuJ9YPiNHcwh8ANWG7PIxEOBihft6ScgYWPImSOqUzwgP+RIF8UEEeQmU4pRb5ti8eec4a2OTEYN86vViLw=="
+
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language': 'en-US,en;q=0.5',
+'Connection': 'keep-alive',
+'Cookie': 'session-id=144-6084411-7548912; session-id-time=2082787201l; i18n-prefs=USD; csm-hit=tb:s-JMK9FK9Y6HEC9VJM1ZHX|1657263336815&t:1657263338897&adb:adblk_no; ubid-main=131-2518449-8610562; session-token="BnSwDAKtJC5/4kCuxx7Gv7fTS7vkuviW2N6j0Th5ZYq3gmURYv7q3k5B0VlzVsZWeT6xuoK+cvGWIlBU4ZFv9+CdAT9Q8EBMrviosV9EZjr/qLcCTE0WWI4uBr6S0SBtY19BuJ9YPiNHcwh8ANWG7PIxEOBihft6ScgYWPImSOqUzwgP+RIF8UEEeQmU4pRb5ti8eec4a2OTEYN86vViLw=="',
+'Host': 'www.amazon.com',
+'Sec-Fetch-Dest': 'document',
+'Sec-Fetch-Mode': 'navigate',
+'Sec-Fetch-Site': 'none',
+'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0',
